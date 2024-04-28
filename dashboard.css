@@ -1,0 +1,12 @@
+header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+#userEmail {
+  font-weight: bold;
+}
+
+#userScore {
+  font-weight: bold;
+}
